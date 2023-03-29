@@ -1,0 +1,26 @@
+{
+  "name": "practica-16-router-y-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnyDeCoder/Practica-16-Router-y-Postman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnyDeCoder/Practica-16-Router-y-Postman/issues"
+  },
+  "homepage": "https://github.com/JohnyDeCoder/Practica-16-Router-y-Postman#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
